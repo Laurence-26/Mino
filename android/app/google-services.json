@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "386356240136",
+    "project_id": "spidey-94f3e",
+    "storage_bucket": "spidey-94f3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386356240136:android:040c7a3969113226eb96bd",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.pesa_tools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386356240136-ur97kl7t9absr64pslavj9g5dqckaig9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.presents.pesa_tools",
+            "certificate_hash": "995fe73b3b65c3ecab9c786f27ad90e8622c0d8f"
+          }
+        },
+        {
+          "client_id": "386356240136-1jikkedhu6his1c78qgnvsfhbffc0ibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcE2E-HgqSsNhgsjB70yhcscdoJ4lstKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386356240136-1jikkedhu6his1c78qgnvsfhbffc0ibr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "386356240136-ebgp8dpcm9dsqkpilbf9snejl3iugg74.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noela"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
